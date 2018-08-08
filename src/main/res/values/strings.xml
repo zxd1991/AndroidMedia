@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MediaTest</string>
+    <string name="generate_mp4">生成MP4</string>
+    <string name="play_mp4">播放MP4</string>
+    <string name="play_h264">播放h264码流</string>
+    <string name="end">结束</string>
+</resources>
