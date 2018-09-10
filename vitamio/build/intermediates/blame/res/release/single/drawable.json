@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\learning\\selfLearning\\vitamio\\build\\intermediates\\res\\merged\\release\\drawable\\scrubber_control_selector_holo.xml",
+        "source": "E:\\learning\\selfLearning\\vitamio\\res\\drawable\\scrubber_control_selector_holo.xml"
+    },
+    {
+        "merged": "E:\\learning\\selfLearning\\vitamio\\build\\intermediates\\res\\merged\\release\\drawable\\mediacontroller_button.xml",
+        "source": "E:\\learning\\selfLearning\\vitamio\\res\\drawable\\mediacontroller_button.xml"
+    },
+    {
+        "merged": "E:\\learning\\selfLearning\\vitamio\\build\\intermediates\\res\\merged\\release\\drawable\\scrubber_progress_horizontal_holo_dark.xml",
+        "source": "E:\\learning\\selfLearning\\vitamio\\res\\drawable\\scrubber_progress_horizontal_holo_dark.xml"
+    }
+]

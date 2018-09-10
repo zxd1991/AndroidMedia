@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MediaTest</string>
+    <string name="generate_mp4">录制MP4</string>
+    <string name="play_mp4">播放本地MP4</string>
+    <string name="play_h264">播放h264码流</string>
+    <string name="push_stream">推流到媒体服务器</string>
+    <string name="play_net_stream">播放网络串流(rtmp)</string>
+    <string name="end">结束</string>
+    <string name="set_push_stream_address">设置推流地址</string>
+    <string name="done">完成</string>
+</resources>

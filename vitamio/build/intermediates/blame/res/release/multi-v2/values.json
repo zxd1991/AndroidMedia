@@ -1,0 +1,124 @@
+{
+    "logs": [
+        {
+            "outputFile": "E:\\learning\\selfLearning\\vitamio\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "E:\\learning\\selfLearning\\vitamio\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "4,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "61,709",
+                        "endLines": "13,19",
+                        "endColumns": "12,12",
+                        "endOffsets": "703,914"
+                    },
+                    "to": {
+                        "startLines": "21,31",
+                        "startColumns": "4,4",
+                        "startOffsets": "1381,2028",
+                        "endLines": "30,35",
+                        "endColumns": "12,12",
+                        "endOffsets": "2023,2233"
+                    }
+                },
+                {
+                    "source": "E:\\learning\\selfLearning\\vitamio\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "5,4,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "167,104,56",
+                        "endColumns": "54,62,47",
+                        "endOffsets": "217,162,99"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,110,173",
+                        "endColumns": "54,62,47",
+                        "endOffsets": "105,168,216"
+                    }
+                },
+                {
+                    "source": "E:\\learning\\selfLearning\\vitamio\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "17,13,16,12,18,6,5,8,7,10,9,4,3",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1096,851,1003,783,1150,268,197,456,369,654,569,124,56",
+                        "endLines": "17,15,16,12,18,6,5,8,7,11,9,4,3",
+                        "endColumns": "53,13,92,67,65,100,70,112,86,13,84,72,67",
+                        "endOffsets": "1145,998,1091,846,1211,364,263,564,451,778,649,192,119"
+                    },
+                    "to": {
+                        "startLines": "5,6,9,10,11,12,13,14,15,16,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "221,275,427,520,588,654,755,826,939,1026,1155,1240,1313",
+                        "endLines": "5,8,9,10,11,12,13,14,15,17,18,19,20",
+                        "endColumns": "53,13,92,67,65,100,70,112,86,13,84,72,67",
+                        "endOffsets": "270,422,515,583,649,750,821,934,1021,1150,1235,1308,1376"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "E:\\learning\\selfLearning\\vitamio\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+            "map": [
+                {
+                    "source": "E:\\learning\\selfLearning\\vitamio\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "4,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "61,709",
+                        "endLines": "13,19",
+                        "endColumns": "12,12",
+                        "endOffsets": "703,914"
+                    },
+                    "to": {
+                        "startLines": "21,31",
+                        "startColumns": "4,4",
+                        "startOffsets": "1381,2028",
+                        "endLines": "30,35",
+                        "endColumns": "12,12",
+                        "endOffsets": "2023,2233"
+                    }
+                },
+                {
+                    "source": "E:\\learning\\selfLearning\\vitamio\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "5,4,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "167,104,56",
+                        "endColumns": "54,62,47",
+                        "endOffsets": "217,162,99"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,110,173",
+                        "endColumns": "54,62,47",
+                        "endOffsets": "105,168,216"
+                    }
+                },
+                {
+                    "source": "E:\\learning\\selfLearning\\vitamio\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "17,13,16,12,18,6,5,8,7,10,9,4,3",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1096,851,1003,783,1150,268,197,456,369,654,569,124,56",
+                        "endLines": "17,15,16,12,18,6,5,8,7,11,9,4,3",
+                        "endColumns": "53,13,92,67,65,100,70,112,86,13,84,72,67",
+                        "endOffsets": "1145,998,1091,846,1211,364,263,564,451,778,649,192,119"
+                    },
+                    "to": {
+                        "startLines": "5,6,9,10,11,12,13,14,15,16,18,19,20",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "221,275,427,520,588,654,755,826,939,1026,1155,1240,1313",
+                        "endLines": "5,8,9,10,11,12,13,14,15,17,18,19,20",
+                        "endColumns": "53,13,92,67,65,100,70,112,86,13,84,72,67",
+                        "endOffsets": "270,422,515,583,649,750,821,934,1021,1150,1235,1308,1376"
+                    }
+                }
+            ]
+        }
+    ]
+}
